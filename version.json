@@ -1,1 +1,5 @@
-
+{
+  "version": "3.2",
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v3.2/SmartSplit-v3.2-HavalV7.apk",
+  "notes": "Haval V7: fixed Return to HU, battery voltage, telltales, and top information positions."
+}
