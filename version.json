@@ -1,5 +1,5 @@
 {
-  "version": "3.5",
-  "url": "https://github.com/alzaubi/smartsplit_v7/releases/download/v3.5/SmartSplit-v3.5-HavalV7.apk",
-  "notes": "Fixed V7 panel switch, bottom data alignment, battery voltage display, and duplicated gear."
+  "version": "3.11",
+  "url": "https://github.com/alzaubi/smartsplit_v7/releases/download/v3.11/SmartSplit-v3.11-HavalV7.apk",
+  "notes": "Restored wallpaper downloads from the active SmartSplit background branch and forced the V7 top and bottom telemetry layers above the telltale overlay, including clock, outside temperature, fuel, battery voltage, range, odometer, and coolant data."
 }
